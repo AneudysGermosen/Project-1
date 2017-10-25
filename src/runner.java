@@ -8,13 +8,13 @@ public class runner {
 
     public static void main(String[] args) {
         // These are the test cases for the classes Sajarin created :
-        methodMadness.sumUpTo(1000);
-        methodMadness.vigCypher("Ice", "Ice Cream");
-        methodMadness.IsFibonnaci(89);
+        SDiderLib.sumUpTo(1000);
+        SDiderLib.vigCypher("Is that a dagger I see before me? ", "COMELETMECLUTCHTHEE" );
+        SDiderLib.IsFibonnaci(89);
 
         // These are the test cases for the classes Aneudys
-        methodMadness.dateStr("08", "07", "2000");
-        methodMadness.isPalindrome("racecar");
-        methodMadness.quadraticSolver(9, 12, 4);
+        AGermosenLib.dateStr("08", "07", "2000");
+        AGermosenLib.isPalindrome("racecar");
+        AGermosenLib.quadraticSolver(9, 12, 4);
     }
 }
