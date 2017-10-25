@@ -12,7 +12,7 @@ public class runner {
         SDiderLib.vigCypher("Is that a dagger I see before me? ", "COMELETMECLUTCHTHEE" );
         SDiderLib.IsFibonnaci(89);
 
-        // These are the test cases for the classes Aneudys
+        // These are the test cases for the classes Aneudys created :
         AGermosenLib.dateStr("08", "07", "2000");
         AGermosenLib.isPalindrome("racecar");
         AGermosenLib.quadraticSolver(9, 12, 4);
